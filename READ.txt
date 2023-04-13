@@ -1,0 +1,3 @@
+After you install image 
+run container on port 3000
+search on browser >>>> http://localhost:3000/students
